@@ -1,4 +1,4 @@
-package scheduler.util;
+package scheduler;
 
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
